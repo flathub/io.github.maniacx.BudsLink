@@ -22,5 +22,5 @@ modules:
     buildsystem: meson
     sources:
       - type: archive
-        url: https://github.com/maniacx/BudsLink/releases/download/v0.1.4/BudsLink-v0.1.4.tar.gz
-        sha256: 87b6f39cb277d91f7a86239b0732dd8ef532aba97be1ef98e46eed62546895dd
+        url: https://github.com/maniacx/BudsLink/releases/download/v0.1.5/BudsLink-v0.1.5.tar.gz
+        sha256: a8e2d0e057483e4759a5047e97b456aedbf6005edfec3f3d8c79fd72bf31b7d4
